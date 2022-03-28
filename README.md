@@ -1,6 +1,4 @@
 # CoffeeOrder_Project
-
-# CoffeeOrder_Project
 ## 🔎 배경 개발 및 요구사항
 
 - 카페 Grids&Circles 의 주문 관리 시스템 구축
@@ -20,6 +18,7 @@
 - IDE : Intellij
 
 ## 🎢 시스템 구성도
+![image](https://user-images.githubusercontent.com/46310555/160363792-d87f42fb-d078-4974-a1fa-5c3caecf9686.png)
 
 
 ## 📁 데이터베이스 구조
@@ -35,3 +34,4 @@ orders
 order_items
 
 - 주문한 상품을 저장하는 테이블
+- ![image](https://user-images.githubusercontent.com/46310555/160363861-68f9a3b3-ece1-45f5-ae6d-418551a2f818.png)
